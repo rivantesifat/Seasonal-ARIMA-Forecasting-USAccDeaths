@@ -68,7 +68,6 @@ The models were compared using:
 This model performed best overall, with the lowest AIC/AICc and excellent residual diagnostics.
 Forecast accuracy was similar to M3, but M4 offered a simpler and more statistically optimal fit.
 
----
 
-## 📦 Repository Contents
+
 
